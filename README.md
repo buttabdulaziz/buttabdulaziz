@@ -40,7 +40,7 @@ I am an experienced web developer specializing in creating dynamic, animated, an
 ## 📞 Contact Me
 
 - 📧 Email: [abdulazizbutt245@gmail.com](mailto:abdulazizbutt245@gmail.com)  
-- 🔗 LinkedIn: [Abdul Aziz Butt](www.linkedin.com/in/abdul-aziz-butt-20b747220)  
+- 🔗 LinkedIn: [Abdul Aziz Butt](https://www.linkedin.com/in/abdul-aziz-butt-20b747220)  
 - 📱 Phone: +92 300 8421686  
 
 ---
