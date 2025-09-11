@@ -19,7 +19,7 @@ I am an experienced web developer specializing in creating dynamic, animated, an
 
 ## 💼 Experience
 
-- 🏢 *Frontend Developer* at *Humayun Farukh Travels & Tours*  
+- 🏢 *Frontend Developer* at *Humayun Farrukh Travels & Tours*  
   📆 Feb 2022 – Present  
   🔧 Working on building production-grade websites, integrating APIs, and delivering seamless user experiences.
 
