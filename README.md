@@ -36,6 +36,10 @@ I am an experienced web developer specializing in creating dynamic, animated, an
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ---
 <!-- Snake Game Repo View -->
@@ -47,7 +51,7 @@ I am an experienced web developer specializing in creating dynamic, animated, an
 ## 📞 Contact Me
 
 - 📧 Email: [abdulazizbutt245@gmail.com](mailto:abdulazizbutt245@gmail.com)  
-- 🔗 LinkedIn: [Abdul Aziz Butt](https://www.linkedin.com/in/abdul-aziz-butt-20b747220)  
+- 🔗 LinkedIn: [Abdul Aziz Butt](https://www.linkedin.com/in/abdul-aziz-butt/)  
 - 📱 Phone: +92 300 8421686  
 
 ---
